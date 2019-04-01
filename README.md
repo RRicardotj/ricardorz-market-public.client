@@ -3,6 +3,8 @@
 This project was builded like a challenge for apply in Turing enterprise like full stack developer
 While I develop this project I was in Venezuela and currently services like electricity and internet conextion were failed, thats because this project it's not totaly ended yet.
 
+I decided keep code just like that for a public repository. In a private repository I'm still developing this project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Get Started
