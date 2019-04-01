@@ -1,0 +1,12 @@
+.Loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    flex-grow: 1;
+
+    .ant-spin-text {
+        color: #DA674A;
+    }
+}

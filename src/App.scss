@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+@import './resources/styles/theme.scss';
+
+.App {
+  height: 100%;
+  width: 100%;
+  min-width: 400px;
+  &-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+}
